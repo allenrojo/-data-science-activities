@@ -3,8 +3,8 @@
 ## Student Information
 
 - **Name:** Allen Rojo
-- **Course:** T2 - DATA SCIENCE (CCDATSCL) - 2025-2026
-- **Program:** Computer Science with Specialization in Machine Learning at NU Dasmarinas
+- **Course:** T2 - DATA SCIENCE (CCDATSCL)
+- **Program:** Bachelor of Science in Computer Science with specialization in Machine Learning at NU Dasmarinas
 - **Professor:** Manolito V. Octaviano Jr.
 
 ## About This Repository
